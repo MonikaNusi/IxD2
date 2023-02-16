@@ -1,6 +1,5 @@
-h1{
-  color: red;
-}
+
+
 p{
   font-family: Tahoma, Verdana, Sans-serif;
   font-style: italic;
@@ -16,7 +15,7 @@ p{
 body{
   background-color:rgba(255,0,0,0.2);
 }
-.music{
+h1{
   font-size:2.5em;
   text-algn:center;
   border:3px solid red;
