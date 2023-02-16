@@ -16,4 +16,10 @@ p{
 body{
   background-color:rgba(255,0,0,0.2);
 }
+.music{
+  font-size:2.5em;
+  text-algn:center;
+  border:3px solid red;
+  
+}
   
